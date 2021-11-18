@@ -2,7 +2,7 @@ Consignes Exercice 2 :
 
 I -
 Cette page Web parle des styles à la mode.
-Vous allez utilisez le JS pour combler les trous, puis y appliquer des styles avec des propriétés CSS.
+Vous allez utiliser le JS pour combler les trous, puis y appliquer des styles avec des propriétés CSS.
 Dans cette première étape, utilisez le JS pour définir le innerHTML de colorEl avec le nom de votre couleur préférée,
  puis utilisez le JS pour définir une propriété color correspondante.
 
